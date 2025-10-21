@@ -31,21 +31,17 @@ It helps identify sales trends, customer behavior, and the impact of promotions 
 ---
 
 ## 📈 Key Insights
-- Total sales grew **18%** in Q4 vs Q3.  
-- **Mumbai** and **Pune** were top-performing cities.  
-- Discounts increased purchase frequency among **Regular customers**.  
-- **UPI payments** became the most preferred method in 2024.
+- Average Order Value **52** in Data
+- Total Revenue 52.46M
+- Total Items 5.50 M sold
+- Growth in Fall Seasonal is high in all seasonal
+- most used store types are Pharmacy, Supermarket, Warehouse club
 
 ---
 
 ## 🧰 Tools Used
 - <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI" alt="Power BI" width="20" height="20"/> </a>Power BI Desktop  
 - <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://res.cdn.office.net/files/fabric-cdn-prod_20251010.003/assets/brand-icons/product/svg/excel_16x1.svg" alt="Power BI" width="20" height="20"/> </a>Microsoft Excel   
-
----
-
-## 🖼️ Dashboard Preview
-![Dashboard Preview](Screenshot_2025-10-21_194519.png)
 
 ---
 
