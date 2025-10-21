@@ -58,4 +58,4 @@ It helps identify sales trends, customer behavior, and the impact of promotions 
 ## 👤 Author
 **Yash Pawar**  
 Aspiring Data Analyst | Power BI Enthusiast  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yash-pawar2/)
