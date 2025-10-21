@@ -45,7 +45,7 @@ It helps identify sales trends, customer behavior, and the impact of promotions 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Screenshot_2025-10-21_194519.png)
 
 ---
 
