@@ -8,7 +8,9 @@ It helps identify sales trends, customer behavior, and the impact of promotions 
 
 ## 🗂 Dataset
 - **Name:** Retail_Transactions.csv  
-- **Columns:** Transaction_ID, Date, Product, Category, Total_Items, Total_Cost, Payment_Method, City, Store_Type, Discount_Applied, Customer_Category, Season, Promotion  
+- **Columns:** Transaction_ID, Date, Product, Category, Total_Items, Total_Cost, Payment_Method, City, Store_Type, Discount_Applied, Customer_Category, Season, Promotion
+- **Rows:** 10 L
+- **Total Data:** 13 M 
 
 ---
 
