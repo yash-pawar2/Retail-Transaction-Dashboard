@@ -33,10 +33,10 @@ It helps identify sales trends, customer behavior, and the impact of promotions 
 ---
 
 ## 📈 Key Insights
-- Average Order Value **52** in Data
-- Total Revenue 52.46M
-- Total Items 5.50 M sold
-- Growth in Fall Seasonal is high in all seasonal
+- Average Orders **52**
+- Total Revenue From 2020 to 2024 is **52.46M**
+- Total Items Sold From 2020 to 2024 are **5.50 M**
+- Growth in Fall Seasonal is high in all Other season's
 - most used store types are Pharmacy, Supermarket, Warehouse club
 
 ---
@@ -55,5 +55,6 @@ It helps identify sales trends, customer behavior, and the impact of promotions 
 
 ## 👤 Author
 **Yash Pawar**  
+
 Aspiring Data Analyst | Power BI Enthusiast  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yash-pawar2/)
