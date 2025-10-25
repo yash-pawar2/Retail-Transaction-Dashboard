@@ -1,4 +1,4 @@
-# 🛒 Power BI Project: Retail Transaction Dashboard
+# 🛒 Power BI Project: Retail Transaction Dashboard (Case Study)
 
 ## 📘 Overview
 This Power BI dashboard analyzes retail transaction data across multiple cities and product categories.  
