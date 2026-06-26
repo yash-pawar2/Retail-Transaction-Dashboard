@@ -8,6 +8,8 @@
 [![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
 [![Dataset](https://img.shields.io/badge/Rows-1%2C000%2C000-blueviolet?style=for-the-badge)]()
 
+![GitHub last commit](https://img.shields.io/github/last-commit/yash-pawar2/Retail-Transaction-Dashboard)
+
 > Transforming **1 million raw retail transactions** into actionable business intelligence — uncovering seasonal trends, store-level performance gaps, and promotion ROI across a 5-year multi-city dataset.
 
 </div>
